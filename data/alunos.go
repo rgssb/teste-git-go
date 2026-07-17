@@ -10,5 +10,7 @@ func ListarAlunos() []models.Aluno {
 		{"Carlos", 22, 7.8},
 		{"Ana", 21, 10},
 		{"Pedro", 18, 6.9},
+		{"Paula", 20, 8.2},
+		{"Rodrigo", 22, 9.2},
 	}
 }
